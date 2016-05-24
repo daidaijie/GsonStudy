@@ -1,4 +1,4 @@
-package typeAdapter;
+package typeAdapter.simple;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
